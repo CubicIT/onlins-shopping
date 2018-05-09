@@ -1,2 +1,2 @@
 # onlins-shopping
-this is a project forntend and backend
+this is an online shopping website....
